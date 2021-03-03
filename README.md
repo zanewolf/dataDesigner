@@ -43,8 +43,29 @@ The flair colors match the run colors used at resorts, except for black, which i
 
 And then of course, there are fun aspects to every fall (moguls, jumps, whether I rolled/flipped when I fell) that I wanted to include because it characterizes the fall itself. And it would be pertinent if it ended up hurting. I hope that by including these details in the flair design themselves, it would take the viewer along for the ride, so to speak, as they visually followed the flair from the main line to the end. 
 
+# 3 - Celestial Connections 
 
+For February's data art project, I recorded everyone I talked with, the medium of communication (in person, zoom, chat [via messenger, text, DMs, whatsapp, etc], or phone call), and roughly how long we chatted/how many messages were sent relative to all the other conversations that day. 
 
+I was looking for a way to visualize this when I spotted the [celestial chart](https://cdn.shopify.com/s/files/1/0803/1725/products/Celestial_Chart_600x.jpg?v=1571439134) hanging above my bed (yes, I'm that basic), and decided I wanted to recreate it. 
+
+Data and Encoding: 
+* Hemisphere (left/right map): Casual conversation or work-related
+* Day of the Week: Section of the sky map
+* Person: Star Shape
+* Medium of Communication: Star's Glow, and if I connected with people through multiple mediums (e.g. chat and in person), then the glow would have both/all the corresponding colors. 
+* Group chat/zoom: Dashed Line
+* Consecutive days of interaction: Dash-Dot Line 
+* In-Person Group: Solid Line
+* Duration of interaction: Location from the center
+
+I think the the biggest thing that jumps out is that I have casual conversations more regularly throughout the week, while my work-related interactions are rather day-dependent (e.g. I teach both class and lab on Wednesday). And some people I interacted with every day for the entire week (like my roommates). 
+
+I wanted to get that "constellation" effect in the night sky, and to do that I needed lines. I decided to visually group chats, consectuvei days of communication, and if I saw more than one person in-person (kind of rare these days). My roommates were the only one to fit that requirement, haha. 
+
+## Post-Mortem
+
+The only constructive feedback I got was that the "Medium of Interaction" legend might suggest placement is also encoded, rather than only color. Given that I was just simulating a piece on the original celestial chart, I hadn't thought about that, but something to keep in mind going forward. This piece was fun to make, and sketching it out to determine the encoding definitely took the longest of the three projects so far, which makes complete and utter sense as it's the most complicated thus far. 
 
 
 
