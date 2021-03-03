@@ -63,8 +63,6 @@ I think the the biggest thing that jumps out is that I have casual conversations
 
 I wanted to get that "constellation" effect in the night sky, and to do that I needed lines. I decided to visually group chats, consectuvei days of communication, and if I saw more than one person in-person (kind of rare these days). My roommates were the only one to fit that requirement, haha. 
 
-## Post-Mortem
-
 The only constructive feedback I got was that the "Medium of Interaction" legend might suggest placement is also encoded, rather than only color. Given that I was just simulating a piece on the original celestial chart, I hadn't thought about that, but something to keep in mind going forward. This piece was fun to make, and sketching it out to determine the encoding definitely took the longest of the three projects so far, which makes complete and utter sense as it's the most complicated thus far. 
 
 
